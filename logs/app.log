@@ -1,0 +1,33 @@
+2024-12-25 07:47:45.341 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 07:47:46.480 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 07:47:46.603 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 07:47:46.769 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 07:47:46.769 [main] INFO  t.TC04_AddProducttoCart - Products successfully added to cart.
+2024-12-25 07:47:46.769 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 07:50:05.472 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 07:50:06.465 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 07:50:06.590 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 07:50:06.753 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 07:50:06.753 [main] INFO  t.TC04_AddProducttoCart - Products successfully added to cart.
+2024-12-25 07:50:06.902 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 07:55:21.537 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 07:55:22.444 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 07:55:22.590 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 07:55:22.776 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 07:55:22.980 [main] INFO  t.TC04_AddProducttoCart - Products successfully added to cart.
+2024-12-25 07:55:23.248 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
+2024-12-25 07:55:23.248 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 08:01:55.984 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 08:01:57.183 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 08:01:57.275 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 08:01:57.411 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 08:01:57.738 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
+2024-12-25 08:01:57.929 [main] INFO  t.TC04_AddProducttoCart - All products verified in the cart successfully.
+2024-12-25 08:01:57.929 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 08:25:29.850 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 08:25:30.617 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 08:25:30.783 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 08:25:30.950 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 08:25:32.029 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
+2024-12-25 08:25:32.265 [main] INFO  t.TC04_AddProducttoCart - All products verified in the cart successfully.
+2024-12-25 08:25:32.265 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
