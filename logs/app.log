@@ -31,3 +31,75 @@
 2024-12-25 08:25:32.029 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
 2024-12-25 08:25:32.265 [main] INFO  t.TC04_AddProducttoCart - All products verified in the cart successfully.
 2024-12-25 08:25:32.265 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 19:30:25.981 [main] INFO  t.TC01_login - **Starting TC01_Login****
+2024-12-25 19:30:28.842 [main] INFO  t.TC01_login - **Executed TC01_Login Test****
+2024-12-25 19:30:34.264 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:30:34.806 [main] INFO  t.TC02_logindatadriven - **successfully logged in with valid creds****
+2024-12-25 19:30:36.163 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:30:37.055 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:30:48.359 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:30:49.198 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:31:00.474 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:31:04.853 [main] INFO  t.TC03_productList - **Starting TC03_ProductList**
+2024-12-25 19:31:05.426 [main] INFO  t.TC03_productList - **TC03_Product list is displayed**
+2024-12-25 19:31:06.425 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:07.361 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:08.309 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:09.312 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:10.312 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:11.263 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:12.189 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:13.210 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:14.184 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:15.176 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:16.194 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:17.249 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:18.276 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:19.298 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:20.332 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:21.325 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:31:22.263 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:31:23.239 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:31:28.544 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 19:31:29.288 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 19:31:29.423 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 19:31:29.514 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 19:31:30.576 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
+2024-12-25 19:31:30.701 [main] INFO  t.TC04_AddProducttoCart - All products verified in the cart successfully.
+2024-12-25 19:31:30.701 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
+2024-12-25 19:31:36.043 [main] INFO  t.TC01_login - **Starting TC01_Login****
+2024-12-25 19:31:38.114 [main] INFO  t.TC01_login - **Executed TC01_Login Test****
+2024-12-25 19:31:43.221 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:31:44.047 [main] INFO  t.TC02_logindatadriven - **successfully logged in with valid creds****
+2024-12-25 19:31:44.714 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:31:44.891 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:31:55.660 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:31:55.799 [main] INFO  t.TC02_logindatadriven - **Starting TC02_Login Data Driven Test****
+2024-12-25 19:32:06.681 [main] INFO  t.TC02_logindatadriven - ** Executed TC02_Login Data Driven Test****
+2024-12-25 19:32:11.778 [main] INFO  t.TC03_productList - **Starting TC03_ProductList**
+2024-12-25 19:32:12.560 [main] INFO  t.TC03_productList - **TC03_Product list is displayed**
+2024-12-25 19:32:13.051 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:13.348 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:13.617 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:13.868 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:14.150 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:14.408 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:14.708 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:14.942 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:15.208 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:15.479 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:15.735 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:16.076 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:16.386 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:16.646 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:16.889 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:17.102 [main] INFO  t.TC03_productList - **TC03_Product image is displayed.**
+2024-12-25 19:32:17.332 [main] INFO  t.TC03_productList - **TC03_Product name is displayed.**
+2024-12-25 19:32:17.589 [main] INFO  t.TC03_productList - **TC03_Product price is displayed.**
+2024-12-25 19:32:23.266 [main] INFO  t.TC04_AddProducttoCart - **Starting TC04_AddProductToCart**
+2024-12-25 19:32:24.239 [main] INFO  t.TC04_AddProducttoCart - Product 1 added to cart.
+2024-12-25 19:32:24.387 [main] INFO  t.TC04_AddProducttoCart - Product 2 added to cart.
+2024-12-25 19:32:24.616 [main] INFO  t.TC04_AddProducttoCart - Product 3 added to cart.
+2024-12-25 19:32:24.995 [main] INFO  t.TC04_AddProducttoCart - Cart Opened Successfully
+2024-12-25 19:32:25.145 [main] INFO  t.TC04_AddProducttoCart - All products verified in the cart successfully.
+2024-12-25 19:32:25.145 [main] INFO  t.TC04_AddProducttoCart - **Executed TC04_AddProductToCart Test**
