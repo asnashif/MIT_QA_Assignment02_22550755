@@ -1,4 +1,3 @@
-// Updated TC04_AddProductToCart class
 package testCases;
 
 import org.openqa.selenium.support.ui.ExpectedConditions;
